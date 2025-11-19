@@ -1,5 +1,5 @@
 # Ex. No.  - SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE
-### DATE: 
+
 
 ## AIM:
 ### To simulate the construction of cartesian 3D printer and to get in-depth knowledge of mechatronics of cartesian 3D printers.
@@ -59,9 +59,14 @@
 ![image](https://github.com/Sellakumar1987/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/113594316/e00b82b4-9aff-400f-9c57-288254dc3cd2)
 
 ## Output:
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/7334c62a-c1fa-4465-8cd8-8910871d2d6d" />
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/a89acdfa-efdc-4e26-9c3e-787fa3296999" />
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/be698dbf-2813-476f-a355-cfb131d23609" />
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/6f36ed62-543b-447d-a09a-87bf73d779e3" />
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/ced38efa-a42e-47ab-b7b9-2b4b556ba7e4" />
 
-### Name: 
-### Register Number:
+### Name: Bhoopesh P
+### Register Number: 212224110013
 
 ## Result: 
 ### Thus the simulation on construction of cartesian 3D printer is completed & movement of axis along X, Y, & Z has been studied.
